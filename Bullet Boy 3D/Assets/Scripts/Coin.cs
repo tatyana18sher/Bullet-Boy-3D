@@ -24,25 +24,5 @@ public class Coin : Unit
      }
 
 
-     
 
-
-    //  protected  void OnTriggerEnter(Collider collider)
-    //  {
-    //    Bullet bullet = collider.GetComponent<Bullet>();
-    //      if (bullet)
-    //      {
-    //          Score.scoreAmount += 30;   
-    //          Destroy (gameObject);
-    //      }
-        //  Bullet bullet = collider.GetComponent<Bullet>();
-
-        //  if (bullet)
-        //  {
-        //      Score.scoreAmount += 10;
-        //      Destroy(gameObject);
-             
-        //  }
-
-     //}
 }

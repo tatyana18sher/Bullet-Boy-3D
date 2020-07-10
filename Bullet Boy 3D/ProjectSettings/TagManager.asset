@@ -10,6 +10,9 @@ TagManager:
   - RobotKyle
   - Coin
   - Box
+  - Robot
+  - Box1
+  - Final
   layers:
   - Default
   - TransparentFX

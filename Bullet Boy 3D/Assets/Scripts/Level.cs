@@ -20,18 +20,4 @@ public class Level : MonoBehaviour
 		text.text = "Level " + sceneIndex;
 	}
 
-
-    // public Text text;
-	// public static int sceneNumber = 0;
-
-
-	// void Start() {
-	// 	text = GetComponent<Text>();
-	// 	sceneNumber++;
-	// }
-	
-	// void Update() {
-	// 	text.text = "Level " + sceneNumber;
-	// }
-
 }

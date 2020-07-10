@@ -30,9 +30,13 @@ public class Enemy : MonoBehaviour
              }
              if(SceneManager.GetActiveScene().buildIndex == 2)
              {
+              SceneManager.LoadScene("4");
+             }
+             if(SceneManager.GetActiveScene().buildIndex == 3)
+             {
               SceneManager.LoadScene("1");
              }
-              //Destroy(gameObject);
+              
              
          }
 
